@@ -75,9 +75,6 @@ export default class News {
 
     }, 18000000);
 
-
-    this.stayOpen();
-
   }
 }
 

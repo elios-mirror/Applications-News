@@ -1,13 +1,13 @@
 <p align="center"><img src="https://gitlab.elios-mirror.com/uploads/-/system/appearance/header_logo/1/logo.png" width="200"></p>
 
 <p align="center">
-<a href="https://gitlab.elios-mirror.com/elios/app-starter-kit"><img src="https://gitlab.elios-mirror.com/elios/app-starter-kit/badges/master/pipeline.svg" alt="Build Status"></a>
-<a href="https://gitlab.elios-mirror.com/elios/app-starter-kit"><img alt="coverage report" src="https://gitlab.elios-mirror.com/elios/app-starter-kit/badges/master/coverage.svg" /></a>
+<a href="https://gitlab.elios-mirror.com/elios/applications/news"><img src="https://gitlab.elios-mirror.com/elios/applications/news/badges/master/pipeline.svg" alt="Build Status"></a>
+<a href="https://gitlab.elios-mirror.com/elios/applications/news"><img alt="coverage report" src="https://gitlab.elios-mirror.com/elios/applications/news/badges/master/coverage.svg" /></a>
 </p>
 
-## About EliOS Application Starter Kit
+## About EliOS News Application
 
-This starter-kit was the main application for elios-mirror v1.0.0:
+Application made to bring the latest news to EliOS mirror using the [NewsAPI](https://newsapi.org/).
 
 ## What's Included
 
@@ -25,8 +25,8 @@ This starter-kit was the main application for elios-mirror v1.0.0:
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within app-starter-kit , please send an e-mail to Taylor Otwell via [contact@elios-mirrro.com](mailto:contact@elios-mirrro.com). All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within app-starter-kit , please send an e-mail to EliOS Team via [contact@elios-mirror.com](mailto:contact@elios-mirror.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
-The app-starter-kit  is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The app-starter-kit is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
